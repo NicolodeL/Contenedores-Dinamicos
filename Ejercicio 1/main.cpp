@@ -7,8 +7,8 @@ using namespace std;
 int main() {
 
     std::vector<int> coches;
-    
-    for (int i = 0; i < 10; ++i) {
+
+    for (int i = 0; i < 11; ++i) {
         coches.push_back(i);
     }
 
