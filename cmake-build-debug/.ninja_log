@@ -1,17 +1,3 @@
 # ninja log v5
-0	370	7229863574695765	CMakeFiles/Ejercicio_1.dir/Ejercicio_1/main.cpp.obj	5a326763f5afb11b
-373	516	7229863576104660	Ejercicio_1.exe	e1c760083f756ade
-3	415	7229866536571555	CMakeFiles/Ejercicio_1.dir/Ejercicio_1/main.cpp.obj	5a326763f5afb11b
-417	537	7229866537717810	Ejercicio_1.exe	e1c760083f756ade
-4	389	7229867671689708	CMakeFiles/Ejercicio_1.dir/Ejercicio_1/main.cpp.obj	5a326763f5afb11b
-390	509	7229867672721592	Ejercicio_1.exe	e1c760083f756ade
-3	409	7229868154071531	CMakeFiles/Ejercicio_1.dir/Ejercicio_1/main.cpp.obj	5a326763f5afb11b
-410	523	7229868155154712	Ejercicio_1.exe	e1c760083f756ade
-3	409	7229869488670667	CMakeFiles/Ejercicio_1.dir/Ejercicio_1/main.cpp.obj	5a326763f5afb11b
-410	531	7229869489710019	Ejercicio_1.exe	e1c760083f756ade
-4	430	7229870619302282	CMakeFiles/Ejercicio_1.dir/Ejercicio_1/main.cpp.obj	5a326763f5afb11b
-431	556	7229870620522573	Ejercicio_1.exe	e1c760083f756ade
-3	392	7229871264291489	CMakeFiles/Ejercicio_1.dir/Ejercicio_1/main.cpp.obj	5a326763f5afb11b
-393	516	7229871265481425	Ejercicio_1.exe	e1c760083f756ade
 4	405	7229871493637086	CMakeFiles/Ejercicio_1.dir/Ejercicio_1/main.cpp.obj	5a326763f5afb11b
 406	521	7229871494745699	Ejercicio_1.exe	e1c760083f756ade

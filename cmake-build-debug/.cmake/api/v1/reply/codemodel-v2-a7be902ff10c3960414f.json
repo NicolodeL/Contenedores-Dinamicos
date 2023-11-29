@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Contenedores-Dinamicos",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Ejercicio_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ejercicio_1-Debug-edfcc5bdc65f06300df8.json",
+					"name" : "Ejercicio_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ejercicio_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ejercicio_2-Debug-a791725ed9a1fea60e72.json",
+					"name" : "Ejercicio_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ejercicio_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ejercicio_3-Debug-cd2156714c6134230d35.json",
+					"name" : "Ejercicio_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ejercicio_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ejercicio_4-Debug-b8fbebb39cc78aac48f9.json",
+					"name" : "Ejercicio_4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ejercicio_5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ejercicio_5-Debug-c2793796d904c39c8f74.json",
+					"name" : "Ejercicio_5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ejercicio_6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ejercicio_6-Debug-3afc19fa115c2362c852.json",
+					"name" : "Ejercicio_6",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/nicol/OneDrive/Documents/GitHub/Contenedores-Dinamicos/cmake-build-debug",
+		"source" : "C:/Users/nicol/OneDrive/Documents/GitHub/Contenedores-Dinamicos"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

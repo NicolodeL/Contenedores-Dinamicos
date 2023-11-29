@@ -1,3 +1,8 @@
 C:/Users/nicol/OneDrive/Documents/GitHub/Contenedores-Dinamicos/cmake-build-debug/CMakeFiles/Ejercicio_1.dir
+C:/Users/nicol/OneDrive/Documents/GitHub/Contenedores-Dinamicos/cmake-build-debug/CMakeFiles/Ejercicio_2.dir
+C:/Users/nicol/OneDrive/Documents/GitHub/Contenedores-Dinamicos/cmake-build-debug/CMakeFiles/Ejercicio_3.dir
+C:/Users/nicol/OneDrive/Documents/GitHub/Contenedores-Dinamicos/cmake-build-debug/CMakeFiles/Ejercicio_4.dir
+C:/Users/nicol/OneDrive/Documents/GitHub/Contenedores-Dinamicos/cmake-build-debug/CMakeFiles/Ejercicio_5.dir
+C:/Users/nicol/OneDrive/Documents/GitHub/Contenedores-Dinamicos/cmake-build-debug/CMakeFiles/Ejercicio_6.dir
 C:/Users/nicol/OneDrive/Documents/GitHub/Contenedores-Dinamicos/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/nicol/OneDrive/Documents/GitHub/Contenedores-Dinamicos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
