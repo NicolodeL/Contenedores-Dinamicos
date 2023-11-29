@@ -5,7 +5,12 @@
 using namespace std;
 
 int main() {
-    vector <int> coches {1,2,3,4,5,6,7,8,9,10};
+
+    std::vector<int> coches;
+    
+    for (int i = 0; i < 10; ++i) {
+        coches.push_back(i);
+    }
 
     for(std::vector<int>::iterator it = coches.begin(); it != coches.end(); ++it) {
         std::cout << *it << std::endl;
