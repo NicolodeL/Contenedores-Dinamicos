@@ -1,3 +1,11 @@
-//
-// Created by nicol on 29/11/2023.
-//
+#include <iostream>
+#include <vector>
+#include <algorithm>
+using namespace std;
+
+int main() {
+
+
+
+
+}
