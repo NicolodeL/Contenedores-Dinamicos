@@ -12,10 +12,9 @@ int main() {
     for (auto &v : resultado) {
         cout << v << " ";
     }
-
     cout << "\nMedia: " << numeros.sum() / numeros.size() << endl;
-
-    cout << "\nMedia: " << numeros2.sum() / numeros2.size() << endl;
+    cout << "Media: " << numeros2.sum() / numeros2.size() << endl;
+    cout << "Resta de totales " << numeros.sum() - numeros2.sum() << endl;
 
 
 
