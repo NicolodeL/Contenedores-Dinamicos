@@ -12,7 +12,8 @@ int main() {
     for (auto &v : resultado) {
         cout << v << " ";
     }
-    cout << endl;
+
+    cout << "\nMedia: " << numeros.sum() / numeros.size() << endl;
 
 
 }
