@@ -15,4 +15,4 @@ add_executable(Ejercicio_5
         "Ejercicio 5/main.cpp")
 add_executable(Ejercicio_6
         "Ejercicio 6/main.cpp"
-        "Ejercicio 6/lexical_cast.hpp")
+)
