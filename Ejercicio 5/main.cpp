@@ -10,7 +10,13 @@ int main() {
     cout << cuadrado(5) << endl;
     vector<int> numeros = {0, 1, 2, 3, 7};
     for_each(numeros.begin(), numeros.end(), [&](int num) {
-        std::cout << "El cuadrado de: " << num << " es " << cuadrado(num) << std::endl;;
+        cout << "El cuadrado de: " << num << " es " << cuadrado(num) << endl;;
+    });
+
+    auto cubo = [](int num) { return num * num * num; };
+    cout << cubo(5) << endl;
+    for_each(numeros.begin(), numeros.end(), [&](int num) {
+        cout << "El cubo de: " << num << " es " << cubo(num) << endl;;
     });
 
 
