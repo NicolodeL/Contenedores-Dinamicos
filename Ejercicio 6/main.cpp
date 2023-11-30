@@ -9,6 +9,6 @@ int descodificado = boost::lexical_cast<int>(codigo);
 cout << "Número: " << descodificado << endl;
 }
 catch(boost::bad_lexical_cast &e) {
-    std::cerr << "Error: " << e.what() << std::endl;
+    cerr << "Error: " << e.what() << endl;
 }
     }
