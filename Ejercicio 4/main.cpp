@@ -16,6 +16,7 @@ int main() {
     cout << "Media: " << numeros2.sum() / numeros2.size() << endl;
     cout << "Resta de totales " << numeros.sum() - numeros2.sum() << endl;
     cout << "Multiplicacion de totales: " << numeros.sum() * numeros2.sum() << endl;
+    cout << "Media de numeros - numeros2:" << resultado.sum() / resultado.size() << endl;
 
 
 
